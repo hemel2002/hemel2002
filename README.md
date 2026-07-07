@@ -72,16 +72,21 @@ I am a highly motivated developer based in **Dhaka, Bangladesh** 🇧🇩. I spe
 ## 📊 GitHub Metrics & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=hemel2002&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="hemel2002's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=hemel2002&layout=compact&theme=tokyonight&hide=html&border_radius=10" alt="hemel2002's Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemel2002&theme=tokyonight" alt="GitHub Profile Summary" width="97%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hemel2002&theme=tokyonight&border_radius=10" alt="hemel2002's GitHub Streak" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemel2002&theme=tokyonight" alt="GitHub Stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemel2002&theme=tokyonight" alt="Languages" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemel2002&theme=tokyonight" alt="Commit Languages" width="32%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemel2002&bg_color=1a1b26&color=a855f7&line=a855f7&point=ff9e64&area=true&hide_border=true&border_radius=10" alt="hemel2002's contribution graph" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hemel2002&theme=tokyonight&border_radius=10" alt="hemel2002's GitHub Streak" width="97%" />
 </p>
 
 ---
