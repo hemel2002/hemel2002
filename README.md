@@ -72,12 +72,12 @@ I am a highly motivated developer based in **Dhaka, Bangladesh** 🇧🇩. I spe
 ## 📊 GitHub Metrics & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemel2002&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="hemel2002's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemel2002&layout=compact&theme=tokyonight&hide=html&border_radius=10" alt="hemel2002's Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=hemel2002&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" alt="hemel2002's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=hemel2002&layout=compact&theme=tokyonight&hide=html&border_radius=10" alt="hemel2002's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemel2002&theme=tokyonight&border_radius=10" alt="hemel2002's GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=hemel2002&theme=tokyonight&border_radius=10" alt="hemel2002's GitHub Streak" width="97%" />
 </p>
 
 <p align="center">
