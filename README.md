@@ -89,6 +89,10 @@ I am a highly motivated developer based in **Dhaka, Bangladesh** 🇧🇩. I spe
   <img src="https://streak-stats.demolab.com/?user=hemel2002&theme=tokyonight&border_radius=10" alt="hemel2002's GitHub Streak" width="97%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hemel2002/hemel2002/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="97%" />
+</p>
+
 ---
 
 ## 🚀 Key Highlights
