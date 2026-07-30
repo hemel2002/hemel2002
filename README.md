@@ -340,7 +340,7 @@ A mobile-first commerce experience with separate customer and administrator work
 
   <br><br>
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=hemel2002&theme=tokyonight&hide_border=false&border=7C3AED&ring=7C3AED&fire=F97316&currStreakLabel=A78BFA&border_radius=12" alt="Shahriar's GitHub contribution streak" />
+  <img width="49%" src="https://raw.githubusercontent.com/hemel2002/hemel2002/output/github-streak.svg" alt="Shahriar's GitHub contribution streak" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hemel2002&bg_color=1A1B27&color=C4B5FD&line=7C3AED&point=F97316&area=true&hide_border=false&border_color=7C3AED&radius=12" alt="Shahriar's GitHub contribution graph" />
 
   <br><br>
