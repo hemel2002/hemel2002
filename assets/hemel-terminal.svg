@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Shahriar Kabir Hemal developer terminal</title>
+  <desc id="desc">Animated terminal showing Shahriar's identity, engineering focus and applied AI results.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090e1a"/>
+      <stop offset=".55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset=".5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ec4899"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+    }
+    .line {
+      opacity: 1;
+      animation: pulse 9s ease-in-out infinite;
+    }
+    .l1 { animation-delay: .2s; }
+    .l2 { animation-delay: .9s; }
+    .l3 { animation-delay: 1.8s; }
+    .l4 { animation-delay: 2.5s; }
+    .l5 { animation-delay: 3.4s; }
+    .l6 { animation-delay: 4.1s; }
+    .cursor { animation: blink 1s steps(2, start) infinite; }
+    @keyframes pulse {
+      0%, 5% { opacity: .45; }
+      12%, 88% { opacity: 1; }
+      96%, 100% { opacity: .45; }
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+
+  <rect x="6" y="6" width="1188" height="318" rx="22" fill="url(#panel)" stroke="url(#edge)" stroke-width="3"/>
+  <rect x="6" y="6" width="1188" height="50" rx="22" fill="#111827"/>
+  <path d="M6 56h1188" stroke="#312e81" stroke-width="2"/>
+
+  <circle cx="36" cy="31" r="7" fill="#fb7185"/>
+  <circle cx="61" cy="31" r="7" fill="#fbbf24"/>
+  <circle cx="86" cy="31" r="7" fill="#34d399"/>
+  <text x="600" y="37" text-anchor="middle" class="mono" font-size="17" fill="#94a3b8">hemel@github: ~/engineering</text>
+
+  <g class="mono" font-size="22">
+    <text x="38" y="94" class="line l1" fill="#a78bfa">$ <tspan fill="#e2e8f0">whoami</tspan></text>
+    <text x="38" y="128" class="line l2" fill="#60a5fa">Shahriar Kabir Hemal <tspan fill="#64748b">— CSE @ MIST</tspan></text>
+
+    <text x="38" y="170" class="line l3" fill="#a78bfa">$ <tspan fill="#e2e8f0">focus --current</tspan></text>
+    <text x="38" y="204" class="line l4" fill="#34d399">Explainable AI <tspan fill="#64748b">•</tspan> Full-Stack Systems <tspan fill="#64748b">•</tspan> Flutter</text>
+
+    <text x="38" y="246" class="line l5" fill="#a78bfa">$ <tspan fill="#e2e8f0">results --top</tspan></text>
+    <text x="38" y="280" class="line l6" fill="#f8fafc">
+      <tspan fill="#fbbf24">98.23%</tspan> dental X-ray accuracy
+      <tspan fill="#64748b"> | </tspan>
+      <tspan fill="#fbbf24">96.15%</tspan> plant disease validation
+    </text>
+    <rect x="38" y="298" width="12" height="22" rx="1" fill="#a78bfa" filter="url(#glow)" class="cursor"/>
+  </g>
+</svg>
