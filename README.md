@@ -330,18 +330,18 @@ A mobile-first commerce experience with separate customer and administrator work
 
 <div align="center">
 
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemel2002&theme=tokyonight" alt="Shahriar's GitHub profile summary" />
+  <img width="98%" src="https://raw.githubusercontent.com/hemel2002/hemel2002/output/github-profile-summary.svg" alt="Shahriar's GitHub profile summary" />
 
   <br>
 
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemel2002&theme=tokyonight" alt="Shahriar's GitHub stats" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemel2002&theme=tokyonight" alt="Languages by repository" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemel2002&theme=tokyonight" alt="Languages by commits" />
+  <img width="32%" src="https://raw.githubusercontent.com/hemel2002/hemel2002/output/github-stats.svg" alt="Shahriar's GitHub stats" />
+  <img width="32%" src="https://raw.githubusercontent.com/hemel2002/hemel2002/output/github-languages.svg" alt="Languages by repository" />
+  <img width="32%" src="https://raw.githubusercontent.com/hemel2002/hemel2002/output/github-commit-languages.svg" alt="Languages by commits" />
 
   <br><br>
 
   <img width="49%" src="https://raw.githubusercontent.com/hemel2002/hemel2002/output/github-streak.svg" alt="Shahriar's GitHub contribution streak" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hemel2002&bg_color=1A1B27&color=C4B5FD&line=7C3AED&point=F97316&area=true&hide_border=false&border_color=7C3AED&radius=12" alt="Shahriar's GitHub contribution graph" />
+  <img width="49%" src="https://raw.githubusercontent.com/hemel2002/hemel2002/output/github-activity.svg" alt="Shahriar's GitHub contribution graph" />
 
   <br><br>
 

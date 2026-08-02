@@ -15,8 +15,64 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Check out profile files and previous cached assets
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Seed analytics assets with safe fallbacks
+        run: |
+          mkdir -p dist
+          for card in github-profile-summary github-stats github-languages github-commit-languages github-activity github-streak; do
+            cp assets/github-analytics-fallback.svg "dist/${card}.svg"
+          done
+          # Keep the last known-good card when one exists on the output branch.
+          for card in github-profile-summary github-stats github-languages github-commit-languages github-activity github-streak; do
+            previous="$(mktemp)"
+            if git show "origin/output:${card}.svg" > "$previous" 2>/dev/null \
+              && test "$(wc -c < "$previous")" -gt 500 \
+              && grep -qi '<svg' "$previous" \
+              && ! grep -qiE 'error fetching resource|internal server error|application/json' "$previous"; then
+              mv "$previous" "dist/${card}.svg"
+            else
+              rm -f "$previous"
+            fi
+          done
+
+      - name: Refresh cached GitHub analytics cards
+        env:
+          SUMMARY_URL: 'https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemel2002&theme=tokyonight'
+          STATS_URL: 'https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemel2002&theme=tokyonight'
+          LANGUAGES_URL: 'https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hemel2002&theme=tokyonight'
+          COMMIT_LANGUAGES_URL: 'https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hemel2002&theme=tokyonight'
+          ACTIVITY_URL: 'https://github-readme-activity-graph.vercel.app/graph?username=hemel2002&bg_color=1A1B27&color=C4B5FD&line=7C3AED&point=F97316&area=true&hide_border=false&border_color=7C3AED&radius=12'
+        run: |
+          fetch_card() {
+            local url="$1"
+            local destination="$2"
+            local temporary
+            temporary="$(mktemp)"
+            if curl --fail --silent --show-error --location --retry 3 --connect-timeout 10 --max-time 60 "$url" --output "$temporary" \
+              && test "$(wc -c < "$temporary")" -gt 500 \
+              && grep -qi '<svg' "$temporary" \
+              && ! grep -qiE 'error fetching resource|internal server error|application/json' "$temporary"; then
+              mv "$temporary" "$destination"
+              echo "Updated $destination"
+            else
+              echo "Keeping fallback/previous asset for $destination"
+              rm -f "$temporary"
+            fi
+          }
+
+          fetch_card "$SUMMARY_URL" dist/github-profile-summary.svg
+          fetch_card "$STATS_URL" dist/github-stats.svg
+          fetch_card "$LANGUAGES_URL" dist/github-languages.svg
+          fetch_card "$COMMIT_LANGUAGES_URL" dist/github-commit-languages.svg
+          fetch_card "$ACTIVITY_URL" dist/github-activity.svg
+
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
+        continue-on-error: true
         with:
           github_user_name: hemel2002
           outputs: |
@@ -26,18 +82,24 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Cache GitHub streak card
-        run: >
-          curl
-          --fail
-          --silent
-          --show-error
-          --retry 3
-          --max-time 60
-          --output dist/github-streak.svg
-          'https://streak-stats.demolab.com?user=hemel2002&theme=tokyonight&hide_border=false&border=7C3AED&ring=7C3AED&fire=F97316&currStreakLabel=A78BFA&border_radius=12'
+        continue-on-error: true
+        run: |
+          temporary="$(mktemp)"
+          if curl --fail --silent --show-error --location --retry 3 --connect-timeout 10 --max-time 60 \
+            --output "$temporary" \
+            'https://streak-stats.demolab.com?user=hemel2002&theme=tokyonight&hide_border=false&border=7C3AED&ring=7C3AED&fire=F97316&currStreakLabel=A78BFA&border_radius=12' \
+            && test "$(wc -c < "$temporary")" -gt 500 \
+            && grep -qi '<svg' "$temporary" \
+            && ! grep -qiE 'error fetching resource|internal server error|application/json' "$temporary"; then
+            mv "$temporary" dist/github-streak.svg
+          else
+            echo "Keeping fallback/previous streak card"
+            rm -f "$temporary"
+          fi
           
       - name: Publish profile assets to the output branch
         uses: crazy-max/ghaction-github-pages@v4
+        if: always()
         with:
           target_branch: output
           build_dir: dist
