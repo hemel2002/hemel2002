@@ -1,40 +1,44 @@
 <!--
   GitHub Profile README — Shahriar Kabir Hemal
-  Theme: Applied AI / Full-Stack Engineering / Electric Violet
+  Theme: Deep Ocean Teal × Electric Cyan × Emerald & Amber Gold
 -->
 
 <div align="center">
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,45:312E81,100:7C3AED&height=260&section=header&text=Shahriar%20Kabir%20Hemal&fontSize=44&fontColor=F8FAFC&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Applied%20AI%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Flutter&descSize=17&descAlignY=57&animation=twinkling"
-    alt="Shahriar Kabir Hemal — Software Engineer, Applied AI, Full-Stack and Flutter"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020D18,35:0A3D62,70:0E6655,100:00F2FE&height=280&section=header&text=Shahriar%20Kabir%20Hemal&fontSize=46&fontColor=E8FFF5&fontAlignY=36&desc=Applied%20AI%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Flutter%20Developer&descSize=18&descAlignY=57&animation=twinkling"
+    alt="Shahriar Kabir Hemal — Applied AI Engineer, Full-Stack Developer, Flutter Developer"
   />
 
   <a href="https://github.com/hemel2002">
-    <img width="100%" src="./assets/hemel-terminal.svg" alt="Animated developer terminal introducing Shahriar Kabir Hemal" />
+    <img width="100%" src="./assets/hemel-terminal.svg" alt="Animated developer terminal" />
   </a>
 
   <br><br>
 
+  <!-- Badges -->
   <a href="mailto:shahriar12688@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shahriar" />
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/shahriar-hemal-543838347">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shahriar on LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://shahriarhemal.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-00F2FE?style=for-the-badge&logo=vercel&logoColor=020D18&labelColor=020D18" alt="Portfolio" />
   </a>
   <a href="https://codeforces.com/profile/hml000">
-    <img src="https://img.shields.io/badge/CODEFORCES-hml000-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="hml000 on Codeforces" />
+    <img src="https://img.shields.io/badge/CODEFORCES-hml000-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://vjudge.net/user/hml000">
-    <img src="https://img.shields.io/badge/VJUDGE-hml000-7C3AED?style=for-the-badge&logo=code&logoColor=white" alt="hml000 on VJudge" />
+    <img src="https://img.shields.io/badge/VJUDGE-hml000-0A3D62?style=for-the-badge&logo=code&logoColor=white" alt="VJudge" />
   </a>
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=hemel2002&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/hemel2002?label=FOLLOWERS&style=for-the-badge&color=2563EB&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLABORATION-111827?style=for-the-badge&labelColor=7C3AED" alt="Open to collaboration" />
+  <img src="https://komarev.com/ghpvc/?username=hemel2002&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/hemel2002?label=FOLLOWERS&style=for-the-badge&color=0A3D62&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-020D18?style=for-the-badge&labelColor=00F2FE&color=020D18" alt="Open to opportunities" />
 
 </div>
 
@@ -44,34 +48,39 @@
 
 ```yaml
 developer:
-  name: "Shahriar Kabir Hemal"
-  location: "Dhaka, Bangladesh"
-  education: "B.Sc. in Computer Science & Engineering — MIST"
+  name:       "Shahriar Kabir Hemal"
+  location:   "Dhaka, Bangladesh 🇧🇩"
+  education:  "B.Sc. Computer Science & Engineering — MIST"
   roles:
     - "Applied AI Engineer"
-    - "Full-Stack Developer"
+    - "Full-Stack Web Developer"
     - "Flutter Developer"
 
 engineering_focus:
-  - "Explainable AI for medical and agricultural imaging"
-  - "Production-minded full-stack web applications"
-  - "Cross-platform mobile experiences"
-  - "Real-time systems, APIs, databases and cloud deployment"
+  - "Explainable AI (XAI) for medical & agricultural diagnostics"
+  - "High-performance full-stack web platforms & REST APIs"
+  - "Cross-platform mobile experiences with Flutter"
+  - "Real-time architectures, distributed systems & cloud deployment"
 
-impact:
-  dental_ai: "7-class X-ray model — 98.23% accuracy"
-  plant_ai: "VGG-19 leaf-disease model — 96.15% validation accuracy"
-  experience: "Industrial trainee — Teletalk Bangladesh Limited"
+highlights:
+  dental_ai:       "7-class dental X-ray classifier → 98.23% state-of-the-art accuracy"
+  plant_ai:        "VGG-19 leaf-disease model → 96.15% validation accuracy"
+  problem_solving: "260+ problems solved across competitive programming platforms"
+  hackathons:      "BEAR Summit Top 10 Finalist & MIST Hackathon Participant"
+  industry:        "Industrial Trainee — Teletalk Bangladesh Limited"
 
 current_mission: >
-  Turn ambitious ideas into useful, explainable and dependable software.
+  Turn ambitious ideas into explainable, production-ready, and dependable software —
+  owning the complete journey from model → API → database → UI → cloud deployment.
 ```
+
+---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science and Engineering student at the Military Institute of Science and Technology (MIST)**, building at the intersection of **applied artificial intelligence, full-stack engineering, and cross-platform development**.
+I am a **Computer Science & Engineering student at the Military Institute of Science and Technology (MIST)**, specializing at the crossroads of **applied artificial intelligence, full-stack systems engineering, and mobile development**.
 
-My work ranges from explainable medical-image classification and plant-disease detection to multi-role marketplaces, real-time transit systems, education platforms, and mobile commerce. I enjoy owning the complete engineering path: **model → API → database → interface → deployment**.
+My engineering spans explainable medical computer vision (Grad-CAM, SHAP, LIME), multi-role enterprise web applications, real-time IoT/RFID transit networks, and scalable Flutter commerce platforms.
 
 <table width="100%">
 <tr>
@@ -79,91 +88,88 @@ My work ranges from explainable medical-image classification and plant-disease d
 
 ### ⚡ What I Build
 
-- Explainable computer-vision systems
-- Full-stack web products and REST APIs
-- Flutter applications and responsive interfaces
-- Real-time, role-based and payment-enabled platforms
-- Data pipelines and cloud-ready deployments
+- **Explainable AI Systems**: Medical/agricultural diagnostics with visual interpretability
+- **Full-Stack Web Platforms**: Scalable architectures with Next.js, React, Node.js & FastAPI
+- **Cross-Platform Mobile**: Clean, reactive mobile applications using Flutter & Dart
+- **Real-Time Systems**: WebSocket streams, IoT hardware integrations & RFID controllers
+- **Cloud & DevOps**: Containerized Docker microservices, Vercel & GPU inference pipelines
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 What I Value
+### 🎯 Engineering Principles
 
-- Measurable results over vague claims
-- Clear interfaces and maintainable architecture
-- Responsible, interpretable AI
-- Thoughtful user experiences
-- Continuous learning through building
+- **Rigor & Precision**: Measurable accuracy backed by empirical evaluation
+- **Interpretable AI**: Transparent, explainable machine intelligence
+- **Deep Modularity**: Clean boundaries, testability & maintainable architectures
+- **End-to-End Ownership**: From algorithm prototyping to production cloud deployment
+- **Continuous Learning**: Relentless building, shipping, and problem solving
 
 </td>
 </tr>
 </table>
 
 <br>
+
+---
 
 <div align="center">
 
 ## 🧰 Engineering Toolkit
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="72%" alt="Animated divider" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="72%" alt="Animated Divider" />
 
 <br><br>
 
 <a href="https://skillicons.dev">
   <img
-    src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,dart,react,nextjs,nodejs,express,flutter,tailwind,postgres,supabase,pytorch,docker,linux,bash,git,github,vercel,vscode&perline=11&theme=dark"
-    alt="C++, Python, Java, JavaScript, TypeScript, Dart, React, Next.js, Node.js, Express, Flutter, Tailwind CSS, PostgreSQL, Supabase, PyTorch, Docker, Linux, Bash, Git, GitHub, Vercel and VS Code"
+    src="https://skillicons.dev/icons?i=cpp,py,java,js,ts,dart,react,nextjs,nodejs,express,flutter,tailwind,postgres,supabase,pytorch,fastapi,docker,linux,bash,git,github,vercel&perline=11&theme=dark"
+    alt="Technology Stack Icons"
   />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-ConvNeXt_%7C_Swin_%7C_VGG--19-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="ConvNeXt, Swin Transformer and VGG-19" />
-<img src="https://img.shields.io/badge/XAI-Grad--CAM_%7C_SHAP_%7C_LIME-111827?style=flat-square&logo=probot&logoColor=A78BFA" alt="Grad-CAM, SHAP and LIME" />
-<img src="https://img.shields.io/badge/API-FastAPI_%7C_REST_%7C_Socket.io-111827?style=flat-square&logo=fastapi&logoColor=00C7B7" alt="FastAPI, REST and Socket.io" />
-<img src="https://img.shields.io/badge/CLOUD-Cloudinary_%7C_Kaggle_GPU-111827?style=flat-square&logo=icloud&logoColor=60A5FA" alt="Cloudinary and Kaggle GPU" />
-
 </div>
-
-<br>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
-
-### 🧠 AI & Data
-
-`Python` · `PyTorch` · `Jupyter`<br>
-`Pandas` · `NumPy` · `MATLAB`<br>
-`ConvNeXt` · `Swin Transformer`<br>
-`VGG-19` · `Grad-CAM` · `SHAP` · `LIME`
-
-</td>
 <td width="34%" valign="top">
 
-### 🌐 Product Engineering
+### 🤖 AI / ML & Diagnostics
 
-`React` · `Next.js` · `Tailwind CSS`<br>
-`Node.js` · `Express.js` · `FastAPI`<br>
-`PostgreSQL` · `Supabase` · `Oracle DB`<br>
-`Stripe` · `Cloudinary` · `Socket.io`
+`PyTorch` · `FastAPI` · `Streamlit`<br>
+`Grad-CAM` · `SHAP` · `LIME`<br>
+`ConvNeXt` · `Swin Transformer` · `VGG-19`<br>
+`Scikit-learn` · `Kaggle GPU Pipeline`
 
 </td>
 <td width="33%" valign="top">
 
-### 📱 Systems & Tools
+### 🌐 Full-Stack & Systems
+
+`React.js` · `Next.js` · `TypeScript`<br>
+`Node.js` · `Express.js` · `Tailwind CSS`<br>
+`PostgreSQL` · `Supabase` · `Oracle DB`<br>
+`Stripe API` · `Cloudinary` · `Socket.io`
+
+</td>
+<td width="33%" valign="top">
+
+### 📱 Platforms, DevOps & Tools
 
 `Flutter` · `Dart` · `Java` · `C/C++`<br>
-`Linux` · `Shell` · `x86 Assembly`<br>
+`Linux (LFS101)` · `Bash` · `x86 Assembly`<br>
 `Docker` · `VMware` · `Vagrant`<br>
-`Git` · `GitHub` · `Vercel`
+`Git / GitHub` · `Vercel` · `Oracle Cloud`
 
 </td>
 </tr>
 </table>
 
 <br>
+
+---
 
 ## 🚀 Featured Engineering Projects
 
@@ -171,31 +177,29 @@ My work ranges from explainable medical-image classification and plant-disease d
 <tr>
 <td width="50%" valign="top">
 
-### 🦷 [Dental Disease Classification](https://github.com/hemel2002/dental-root-diseases-identification)
+### 🦷 [Dental Disease Classification System](https://github.com/hemel2002/dental-root-diseases-identification)
 
-A hybrid **ConvNeXt–Swin Transformer** system that classifies **7 dental conditions** from X-ray images with **98.23% accuracy**.
+A hybrid **ConvNeXt–Swin Transformer** vision system that diagnoses **7 dental conditions** from panoramic X-rays with **98.23% state-of-the-art accuracy**.
 
-- Explainability with Grad-CAM, SHAP and LIME
-- SHAP-CAM alignment analysis for feature validation
-- FastAPI, Next.js, Streamlit and Docker delivery path
-- Kaggle GPU inference pipeline
+- **Explainable AI (XAI)**: Integrated Grad-CAM, SHAP, and LIME with SHAP-CAM alignment validation.
+- **Production Delivery**: FastAPI REST service, Next.js interface, and Streamlit diagnostic suite.
+- **Inference Pipeline**: Containerized Docker deployment linked with Kaggle GPU acceleration.
 
 `PyTorch` `FastAPI` `Next.js` `Docker` `XAI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🥔 [BlightSense AI](https://github.com/hemel2002/potato-leaf-diseases)
+### 🥔 [BlightSense AI — Leaf Disease Detection](https://github.com/hemel2002/potato-leaf-diseases)
 
-A **VGG-19 transfer-learning** classifier for Early Blight, Late Blight and healthy potato leaves, reaching **96.15% validation accuracy**.
+A deep learning classifier leveraging **Transfer Learning with VGG-19** to detect Early Blight, Late Blight, and Healthy potato crops at **96.15% accuracy**.
 
-- Data augmentation for stronger generalization
-- Grad-CAM localization of disease evidence
-- Interactive Next.js prediction experience
-- Real-time Kaggle GPU inference
+- **Visual Evidence**: Grad-CAM heatmap localization revealing affected leaf structures.
+- **Real-Time GPU Inference**: Next.js client connected via secure tunnel to Kaggle GPU backend.
+- **Data Augmentation**: Robust generalization across challenging agricultural conditions.
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://potato-disease-app-six.vercel.app)
-`VGG-19` `Next.js` `Grad-CAM`
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=flat-square&logo=vercel&logoColor=020D18&labelColor=020D18)](https://potato-disease-app-six.vercel.app)
+`VGG-19` `Next.js` `Grad-CAM` `Vercel`
 
 </td>
 </tr>
@@ -205,27 +209,25 @@ A **VGG-19 transfer-learning** classifier for Early Blight, Late Blight and heal
 
 ### 🍜 [Street Eat Hub](https://github.com/hemel2002/street-eats-hub)
 
-A multi-role street-food platform connecting **customers, vendors and administrators** through one scalable product.
+A scalable multi-tier street food marketplace serving **Customers, Vendors, and Platform Administrators**.
 
-- Supabase authentication and PostgreSQL data layer
-- Stripe payments and Cloudinary media management
-- Geolocation, route and distance calculation
-- Responsive role-specific workflows
+- **Data & Auth Layer**: Supabase PostgreSQL persistence with secure role-based access.
+- **Fintech & Media**: Automated Stripe transaction flows paired with Cloudinary asset optimization.
+- **Geospatial Intelligence**: Dynamic routing, vendor geolocation, and live proximity computation.
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://street-food-main.vercel.app)
-`Next.js` `Supabase` `Stripe`
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0A3D62?style=flat-square&logo=vercel&logoColor=white)](https://street-food-main.vercel.app)
+`Next.js` `Supabase` `Stripe` `Geoapify`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚌 [Smart Transit Guard](https://github.com/NAHIDURZAMAN/mma/tree/main)
 
-A real-time automated fare-collection system connecting RFID scans, website authentication and physical gate control.
+An automated contactless transit fare system linking physical RFID scan gates with real-time web telemetry.
 
-- Geoapify-powered distance and fare calculation
-- Socket.io streams for live RFID events
-- Node.js and Express service architecture
-- Oracle-to-PostgreSQL/Supabase migration
+- **Real-Time Event Streaming**: Socket.io bidirectional channels streaming gate scan events.
+- **Automated Distance Billing**: Geoapify distance calculation engine for dynamic fare deductions.
+- **Database Modernization**: Migrated persistence layers from legacy Oracle to PostgreSQL & Supabase.
 
 `Node.js` `Socket.io` `PostgreSQL` `RFID`
 
@@ -237,27 +239,25 @@ A real-time automated fare-collection system connecting RFID scans, website auth
 
 ### 🎓 [TutorHub](https://github.com/hemel2002/Tutor-Hub)
 
-An education marketplace with dedicated student, tutor and admin journeys.
+A comprehensive tutoring marketplace connecting learners with verified instructors.
 
-- Study-material uploads and tutor booking
-- Payment-processing workflows
-- Tutor availability calendar
-- Skill-development course catalog
+- **Booking & Availability**: Interactive instructor schedules and automated slot booking.
+- **Digital Payments**: End-to-end checkout and course material distribution pipeline.
+- **Role Isolation**: Dedicated user journeys for Students, Instructors, and Platform Admins.
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://tutor-hub-eta-five.vercel.app)
-`TypeScript` `Node.js` `Express`
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=flat-square&logo=vercel&logoColor=020D18&labelColor=020D18)](https://tutor-hub-eta-five.vercel.app)
+`TypeScript` `Node.js` `Express` `Vercel`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛒 [SwiftMart](https://github.com/hemel2002/Swift-Mart)
 
-A mobile-first commerce experience with separate customer and administrator workflows.
+A modern mobile-first e-commerce engine engineered in Flutter with specialized consumer and merchant workflows.
 
-- Categorized catalog, wishlists and order tracking
-- Dynamic search, voice search and an AI chatbot
-- Stripe card and scan-based payments
-- Notifications and commerce management
+- **Smart Discovery**: AI-powered conversational shopping assistant with voice-based search.
+- **Flexible Checkout**: Multi-channel payments supporting Stripe card and QR code scan payments.
+- **Order Lifecycle**: Real-time push notifications, wishlist management, and live order tracking.
 
 `Flutter` `Dart` `Node.js` `Stripe`
 
@@ -267,26 +267,40 @@ A mobile-first commerce experience with separate customer and administrator work
 
 <div align="center">
 
-[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED)](https://github.com/hemel2002?tab=repositories)
+[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-020D18?style=for-the-badge&logo=github&logoColor=white&labelColor=00F2FE)](https://github.com/hemel2002?tab=repositories)
 
 </div>
 
 <br>
 
-## 🏢 Industry Experience
+---
 
-### Teletalk Bangladesh Limited · Industrial Trainee
+## 🏢 Professional Experience
 
-`System Operations` · `IT` · `Billing` · `Enterprise Telecom`
+<table width="100%">
+<tr>
+<td valign="top">
 
-- Rotated across System Operations, IT and Billing teams to understand production telecom infrastructure.
-- Traced end-to-end billing data flows and the connection between backend services and customer-facing operations.
-- Worked with cross-functional technical teams to document and analyze enterprise-scale workflows.
-- Completed the program with official certification for technical competency and professional conduct.
+### Teletalk Bangladesh Limited &nbsp;·&nbsp; Industrial Trainee &nbsp;·&nbsp; `2024`
+
+`System Operations` &nbsp;·&nbsp; `IT & Infrastructure` &nbsp;·&nbsp; `Billing Systems` &nbsp;·&nbsp; `Enterprise Telecom`
+
+- Rotated across **System Operations, IT, and Enterprise Billing** departments to analyze production telecommunications infrastructure.
+- Traced end-to-end billing transactions to inspect how distributed backend services interact with high-volume customer portals.
+- Partnered with senior engineering teams to document operational workflows, database queries, and network topologies.
+- Awarded official certification acknowledging technical competence and excellence in professional conduct.
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## 🧩 Problem Solving
+---
+
+## 🧩 Competitive Programming & Problem Solving
+
+> **260+ problems solved** across Codeforces and VJudge
 
 <table width="100%">
 <tr>
@@ -305,26 +319,47 @@ A mobile-first commerce experience with separate customer and administrator work
 
 **83+ problems solved**
 
-[![VJudge Profile](https://img.shields.io/badge/VIEW_PROFILE-hml000-7C3AED?style=for-the-badge&logo=code&logoColor=white)](https://vjudge.net/user/hml000)
+[![VJudge Profile](https://img.shields.io/badge/VIEW_PROFILE-hml000-0A3D62?style=for-the-badge&logo=code&logoColor=white)](https://vjudge.net/user/hml000)
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>🏅 Achievements & Certifications</b></summary>
 <br>
 
-- **MIST Leetcon 2023 — HackMeIfYouCan:** national cybersecurity competition and workshop participant
-- **Intra MIST Hackathon 2024:** hackathon participant
-- **Introduction to Cloud and DevOps:** Simplilearn
-- **Introduction to Linux (LFS101):** The Linux Foundation — [verify certificate](https://drive.google.com/file/d/1ylyRS70czvJS-D-UzlodS4WdEIVoBXnS/view?usp=sharing)
-- **Linux Unhatched:** Cisco Networking Academy — [verify certificate](https://drive.google.com/file/d/14lYwg7q39qWekm50JPSyI0m_8p9fqlND/view?usp=share_link)
-- **Networking Basics:** Cisco Networking Academy — [verify certificate](https://drive.google.com/file/d/1Sxv2ZSHRkOi_QoO_8t6ZFzVMLy--jd4K/view?usp=share_link)
+---
 
-</details>
+## 🏅 Honors, Competitions & Certifications
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Hackathons & Competitions
+
+- **BEAR Summit — Top 10 Finalist** &nbsp;·&nbsp; [![Verify Certificate](https://img.shields.io/badge/VERIFY-00F2FE?style=flat-square&logoColor=020D18&labelColor=020D18)](https://drive.google.com/file/d/1cj79lN_1XinR_4tJB1oRIH6V3v6vC3Qe/view)
+- **MIST Leetcon 2023: HackMeIfYouCan** &nbsp;·&nbsp; National cybersecurity competition and workshop
+- **Intra MIST Hackathon 2024** &nbsp;·&nbsp; Hackathon participant
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Verified Certifications
+
+- **Oracle Cloud Infrastructure (OCI) — Certified Architect Associate**
+- **Oracle Cloud Infrastructure (OCI) — Certified Foundations Associate**
+- **Introduction to Linux (LFS101)** &nbsp;·&nbsp; The Linux Foundation &nbsp;·&nbsp; [![Verify](https://img.shields.io/badge/VERIFY-0A3D62?style=flat-square)](https://drive.google.com/file/d/1ylyRS70czvJS-D-UzlodS4WdEIVoBXnS/view)
+- **Linux Unhatched** &nbsp;·&nbsp; Cisco Networking Academy &nbsp;·&nbsp; [![Verify](https://img.shields.io/badge/VERIFY-0A3D62?style=flat-square)](https://drive.google.com/file/d/14lYwg7q39qWekm50JPSyI0m_8p9fqlND/view)
+- **Networking Basics** &nbsp;·&nbsp; Cisco Networking Academy &nbsp;·&nbsp; [![Verify](https://img.shields.io/badge/VERIFY-0A3D62?style=flat-square)](https://drive.google.com/file/d/1Sxv2ZSHRkOi_QoO_8t6ZFzVMLy--jd4K/view)
+- **Introduction to Cloud and DevOps** &nbsp;·&nbsp; Simplilearn
+
+</td>
+</tr>
+</table>
 
 <br>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -355,13 +390,15 @@ A mobile-first commerce experience with separate customer and administrator work
 
 <br>
 
-## 🤝 Let’s Build Something Useful
+---
+
+## 🤝 Let’s Build Something Meaningful
 
 ```text
-[+] Explainable AI and computer vision
-[+] Full-stack web platforms and APIs
-[+] Flutter and cross-platform applications
-[+] Real-time systems and database-backed products
+[+] Explainable AI and computer vision diagnostics
+[+] Full-stack web architectures and microservice APIs
+[+] Flutter and reactive cross-platform mobile apps
+[+] Real-time event streams, IoT and database engineering
 [+] Open-source, research and hackathon collaborations
 ```
 
@@ -372,15 +409,20 @@ A mobile-first commerce experience with separate customer and administrator work
   <a href="mailto:shahriar12688@gmail.com">
     <img src="https://img.shields.io/badge/START_A_CONVERSATION-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation by email" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/shahriar-hemal-543838347">
     <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Shahriar on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://shahriarhemal.vercel.app">
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00F2FE?style=for-the-badge&logo=safari&logoColor=020D18&labelColor=020D18" alt="Visit Shahriar's Portfolio" />
   </a>
 
   <br><br>
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:312E81,100:090E1A&height=130&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,40:0E6655,75:0A3D62,100:020D18&height=130&section=footer&animation=twinkling"
     alt="Footer wave"
   />
 
