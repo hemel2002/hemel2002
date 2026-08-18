@@ -415,7 +415,7 @@ A modern mobile-first e-commerce engine engineered in Flutter with specialized c
     <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Shahriar on LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://shahriarhemal.vercel.app">
+  <a href="https://portfolio-of-shahriar-hemal.vercel.app">
     <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0D9488?style=for-the-badge&logo=safari&logoColor=white" alt="Visit Shahriar's Portfolio" />
   </a>
 
