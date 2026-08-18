@@ -1,13 +1,13 @@
 <!--
   GitHub Profile README — Shahriar Kabir Hemal
-  Theme: Deep Ocean Teal × Electric Cyan × Emerald & Amber Gold
+  Theme: Deep Ocean Slate × Soft Emerald Teal × Midnight Navy
 -->
 
 <div align="center">
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020D18,35:0A3D62,70:0E6655,100:00F2FE&height=280&section=header&text=Shahriar%20Kabir%20Hemal&fontSize=46&fontColor=E8FFF5&fontAlignY=36&desc=Applied%20AI%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Flutter%20Developer&descSize=18&descAlignY=57&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020D18,35:0A3D62,70:0D9488,100:14B8A6&height=270&section=header&text=Shahriar%20Kabir%20Hemal&fontSize=46&fontColor=F0FDF4&fontAlignY=36&desc=Applied%20AI%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Flutter%20Developer&descSize=18&descAlignY=57&animation=twinkling"
     alt="Shahriar Kabir Hemal — Applied AI Engineer, Full-Stack Developer, Flutter Developer"
   />
 
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://shahriarhemal.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00F2FE?style=for-the-badge&logo=vercel&logoColor=020D18&labelColor=020D18" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://codeforces.com/profile/hml000">
     <img src="https://img.shields.io/badge/CODEFORCES-hml000-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
@@ -36,9 +36,9 @@
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=hemel2002&label=PROFILE+VIEWS&color=00F2FE&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hemel2002&label=PROFILE+VIEWS&color=0D9488&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/hemel2002?label=FOLLOWERS&style=for-the-badge&color=0A3D62&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-020D18?style=for-the-badge&labelColor=00F2FE&color=020D18" alt="Open to opportunities" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_OPPORTUNITIES-020D18?style=for-the-badge&labelColor=0D9488" alt="Open to opportunities" />
 
 </div>
 
@@ -65,7 +65,6 @@ engineering_focus:
 highlights:
   dental_ai:       "7-class dental X-ray classifier → 98.23% state-of-the-art accuracy"
   plant_ai:        "VGG-19 leaf-disease model → 96.15% validation accuracy"
-  problem_solving: "260+ problems solved across competitive programming platforms"
   hackathons:      "BEAR Summit Top 10 Finalist & MIST Hackathon Participant"
   industry:        "Industrial Trainee — Teletalk Bangladesh Limited"
 
@@ -198,7 +197,7 @@ A deep learning classifier leveraging **Transfer Learning with VGG-19** to detec
 - **Real-Time GPU Inference**: Next.js client connected via secure tunnel to Kaggle GPU backend.
 - **Data Augmentation**: Robust generalization across challenging agricultural conditions.
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=flat-square&logo=vercel&logoColor=020D18&labelColor=020D18)](https://potato-disease-app-six.vercel.app)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://potato-disease-app-six.vercel.app)
 `VGG-19` `Next.js` `Grad-CAM` `Vercel`
 
 </td>
@@ -245,7 +244,7 @@ A comprehensive tutoring marketplace connecting learners with verified instructo
 - **Digital Payments**: End-to-end checkout and course material distribution pipeline.
 - **Role Isolation**: Dedicated user journeys for Students, Instructors, and Platform Admins.
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-00F2FE?style=flat-square&logo=vercel&logoColor=020D18&labelColor=020D18)](https://tutor-hub-eta-five.vercel.app)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-0D9488?style=flat-square&logo=vercel&logoColor=white)](https://tutor-hub-eta-five.vercel.app)
 `TypeScript` `Node.js` `Express` `Vercel`
 
 </td>
@@ -267,7 +266,7 @@ A modern mobile-first e-commerce engine engineered in Flutter with specialized c
 
 <div align="center">
 
-[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-020D18?style=for-the-badge&logo=github&logoColor=white&labelColor=00F2FE)](https://github.com/hemel2002?tab=repositories)
+[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-020D18?style=for-the-badge&logo=github&logoColor=white&labelColor=0D9488)](https://github.com/hemel2002?tab=repositories)
 
 </div>
 
@@ -300,26 +299,28 @@ A modern mobile-first e-commerce engine engineered in Flutter with specialized c
 
 ## 🧩 Competitive Programming & Problem Solving
 
-> **260+ problems solved** across Codeforces and VJudge
-
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
 ### Codeforces
 
-**101+ problems solved**
+**Handle:** [`@hml000`](https://codeforces.com/profile/hml000)
 
-[![Codeforces Profile](https://img.shields.io/badge/VIEW_PROFILE-hml000-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hml000)
+<br>
+
+[![Codeforces Profile](https://img.shields.io/badge/CODEFORCES-hml000-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hml000)
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### VJudge
 
-**83+ problems solved**
+**Handle:** [`@hml000`](https://vjudge.net/user/hml000)
 
-[![VJudge Profile](https://img.shields.io/badge/VIEW_PROFILE-hml000-0A3D62?style=for-the-badge&logo=code&logoColor=white)](https://vjudge.net/user/hml000)
+<br>
+
+[![VJudge Profile](https://img.shields.io/badge/VJUDGE-hml000-0A3D62?style=for-the-badge&logo=code&logoColor=white)](https://vjudge.net/user/hml000)
 
 </td>
 </tr>
@@ -337,7 +338,7 @@ A modern mobile-first e-commerce engine engineered in Flutter with specialized c
 
 ### 🏆 Hackathons & Competitions
 
-- **BEAR Summit — Top 10 Finalist** &nbsp;·&nbsp; [![Verify Certificate](https://img.shields.io/badge/VERIFY-00F2FE?style=flat-square&logoColor=020D18&labelColor=020D18)](https://drive.google.com/file/d/1cj79lN_1XinR_4tJB1oRIH6V3v6vC3Qe/view)
+- **BEAR Summit — Top 10 Finalist** &nbsp;·&nbsp; [![Verify Certificate](https://img.shields.io/badge/VERIFY-0D9488?style=flat-square&logoColor=white)](https://drive.google.com/file/d/1cj79lN_1XinR_4tJB1oRIH6V3v6vC3Qe/view)
 - **MIST Leetcon 2023: HackMeIfYouCan** &nbsp;·&nbsp; National cybersecurity competition and workshop
 - **Intra MIST Hackathon 2024** &nbsp;·&nbsp; Hackathon participant
 
@@ -415,14 +416,14 @@ A modern mobile-first e-commerce engine engineered in Flutter with specialized c
   </a>
   &nbsp;
   <a href="https://shahriarhemal.vercel.app">
-    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-00F2FE?style=for-the-badge&logo=safari&logoColor=020D18&labelColor=020D18" alt="Visit Shahriar's Portfolio" />
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0D9488?style=for-the-badge&logo=safari&logoColor=white" alt="Visit Shahriar's Portfolio" />
   </a>
 
   <br><br>
 
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,40:0E6655,75:0A3D62,100:020D18&height=130&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,40:0A3D62,75:0A3D62,100:020D18&height=130&section=footer&animation=twinkling"
     alt="Footer wave"
   />
 
