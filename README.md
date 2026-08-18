@@ -338,7 +338,7 @@ A modern mobile-first e-commerce engine engineered in Flutter with specialized c
 
 ### 🏆 Hackathons & Competitions
 
-- **BEAR Summit — Top 10 Finalist** &nbsp;·&nbsp; [![Verify Certificate](https://img.shields.io/badge/VERIFY-0D9488?style=flat-square&logoColor=white)](https://drive.google.com/file/d/1cj79lN_1XinR_4tJB1oRIH6V3v6vC3Qe/view)
+- **BEAR Summit — Top 10 Finalist** &nbsp;·&nbsp; [![Verify Certificate](https://img.shields.io/badge/VERIFY-0D9488?style=flat-square&logoColor=white)](https://lnkd.in/p/gF4W8Wmv)
 - **MIST Leetcon 2023: HackMeIfYouCan** &nbsp;·&nbsp; National cybersecurity competition and workshop
 - **Intra MIST Hackathon 2024** &nbsp;·&nbsp; Hackathon participant
 
@@ -347,8 +347,8 @@ A modern mobile-first e-commerce engine engineered in Flutter with specialized c
 
 ### 📜 Verified Certifications
 
-- **Oracle Cloud Infrastructure (OCI) — Certified Architect Associate**
-- **Oracle Cloud Infrastructure (OCI) — Certified Foundations Associate**
+- **Oracle Cloud Infrastructure (OCI) — Certified Architect Associate** &nbsp;·&nbsp; Oracle &nbsp;·&nbsp; [![Verify](https://img.shields.io/badge/VERIFY-0A3D62?style=flat-square)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5FBDD7C183B0EB12AA831B88D796465923DDA0505B0643D884F53B3C59B4BE2F)
+- **Oracle Cloud Infrastructure (OCI) — Certified Foundations Associate** &nbsp;·&nbsp; Oracle &nbsp;·&nbsp; [![Verify](https://img.shields.io/badge/VERIFY-0A3D62?style=flat-square)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=9E82C996C4FC9710D377169B0A2169C2F215D60BEC5BD226CD1DFD7E0251735B)
 - **Introduction to Linux (LFS101)** &nbsp;·&nbsp; The Linux Foundation &nbsp;·&nbsp; [![Verify](https://img.shields.io/badge/VERIFY-0A3D62?style=flat-square)](https://drive.google.com/file/d/1ylyRS70czvJS-D-UzlodS4WdEIVoBXnS/view)
 - **Linux Unhatched** &nbsp;·&nbsp; Cisco Networking Academy &nbsp;·&nbsp; [![Verify](https://img.shields.io/badge/VERIFY-0A3D62?style=flat-square)](https://drive.google.com/file/d/14lYwg7q39qWekm50JPSyI0m_8p9fqlND/view)
 - **Networking Basics** &nbsp;·&nbsp; Cisco Networking Academy &nbsp;·&nbsp; [![Verify](https://img.shields.io/badge/VERIFY-0A3D62?style=flat-square)](https://drive.google.com/file/d/1Sxv2ZSHRkOi_QoO_8t6ZFzVMLy--jd4K/view)
